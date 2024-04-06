@@ -10,7 +10,11 @@ $$P(A\cup B)=P(A)+P(B)-P(A\cap B )$$
 Ley de Laplace para espacios equiprobables:
 $P(A)=\frac {casos Favorables}{total casos}$  
 
+Si no son independiente:
+$$P(A \cap B)= P(A|B) P(B)$$
+
 Para sucesos independientes: $P(A \cap B)= P(A)P(B)$
+
 
 Teoremas de la probabilidad total y Teorema de Bayes:
 $$P(B)=P(B|A_{1})P(A_{1}+P(B|A_{2})P(A_{2}+P(B|A_{3})P(A_{3}+....+P(B|A_{n})P(A_{n}$$
