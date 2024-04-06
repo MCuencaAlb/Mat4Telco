@@ -5,6 +5,7 @@
 |Sin Orden|$CR_{n,m}=\binom{n-1+m}{n-1}$|$C_{n,m}=\binom{n}{m}=\frac{n!}{m!(n-m)!}$|
 
 $$P(A^{c})=1-P(A)$$
+
 $$P(A\cup B)=P(A)+P(B)-P(A\cap B )$$  
 
 Ley de Laplace para espacios equiprobables:
